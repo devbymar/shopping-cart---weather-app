@@ -1,24 +1,5 @@
 # miscelanea
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Proyecto que consiste en carro de la compra funcional, 
+## expense tracker y  
+## aplicacion para buscar la temperatura en cualquier lugar del mundo con api 'openweather'.
